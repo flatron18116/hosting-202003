@@ -1,0 +1,23 @@
+{
+  "name": "hosting-202003",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "firebase-tools": "^7.15.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flatron18116/hosting-202003.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flatron18116/hosting-202003/issues"
+  },
+  "homepage": "https://github.com/flatron18116/hosting-202003#readme"
+}
